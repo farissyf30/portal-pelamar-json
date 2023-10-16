@@ -1,9 +1,26 @@
-[
-    {
-        "logo": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/57.jpg",
-        "nama_jabatan": "nama_jabatan 1",
-        "nama_perusahaan": "nama_perusahaan 1",
-        "end_date": 1697461952,
-        "id": "1"
-    }
-]
+{
+    "data": [
+      {
+        "id": 1,
+        "logo": "link_ke_logo1",
+        "nama_jabatan": "Manager",
+        "nama_perusahaan": "Perusahaan ABC",
+        "end_date": "2023-12-31"
+      },
+      {
+        "id": 2,
+        "logo": "link_ke_logo2",
+        "nama_jabatan": "Pegawai",
+        "nama_perusahaan": "Perusahaan XYZ",
+        "end_date": "2023-11-30"
+      },
+      {
+        "id": 3,
+        "logo": "link_ke_logo3",
+        "nama_jabatan": "Analisis",
+        "nama_perusahaan": "Perusahaan DEF",
+        "end_date": "2023-10-15"
+      }
+    ]
+  }
+  
