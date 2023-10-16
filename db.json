@@ -1,14 +1,18 @@
 {
-    "posts": [
-      { "id": 1, "title": "Post 1" },
-      { "id": 2, "title": "Post 2" },
-      { "id": 3, "title": "Post 3" }
-    ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 },
-      { "id": 2, "body": "some comment", "postId": 1 }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
-  }
+    "Joblist": [
+        {
+            "logo": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/57.jpg",
+            "nama_jabatan": "nama_jabatan 1",
+            "nama_perusahaan": "nama_perusahaan 1",
+            "end_date": 1697461952,
+            "id": "1"
+        },
+        {
+            "logo": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1114.jpg",
+            "nama_jabatan": "nama_jabatan 2",
+            "nama_perusahaan": "nama_perusahaan 2",
+            "end_date": 1697461892,
+            "id": "2"
+        }
+    ]
+}
