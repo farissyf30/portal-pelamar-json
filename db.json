@@ -50,5 +50,11 @@
             "id":"1",
             "nama_perusahaan": "Pertamina"
         }
+    ],
+    "jabatan": [
+        {
+            "id": "1",
+            "nama_jabatan": "Direktur Utama"
+        }
     ]
 }
