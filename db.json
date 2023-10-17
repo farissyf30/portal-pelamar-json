@@ -43,6 +43,17 @@
             "nama_kota": "Bandung",
             "deskripsi": "Lorem Ipsum dolor sit amet",
             "tanggung_jawab": "Lorem Ipsum dolor sit amet"
+        },
+        {
+            "id": "5",
+            "logo": "https://www.len.co.id/wp-content/uploads/2015/01/LOGO-PT-PAL-INDONESIA-150X50.png",
+            "nama_jabatan": "Peneliti",
+            "nama_perusahaan": "PT PAL Indonesia",
+            "start_date": 1697461952,
+            "end_date": 1697461892,
+            "nama_kota": "Bandung",
+            "deskripsi": "Lorem Ipsum dolor sit amet",
+            "tanggung_jawab": "Lorem Ipsum dolor sit amet"
         }
     ],
     "perusahaan": [
