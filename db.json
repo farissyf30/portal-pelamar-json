@@ -44,5 +44,11 @@
             "deskripsi": "Lorem Ipsum dolor sit amet",
             "tanggung_jawab": "Lorem Ipsum dolor sit amet"
         }
+    ],
+    "perusahaan": [
+        {
+            "id":"1",
+            "nama_perusahaan": "Pertamina"
+        }
     ]
 }
