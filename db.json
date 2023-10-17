@@ -3,8 +3,8 @@
         {
             "id": "1",
             "logo": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/57.jpg",
-            "nama_jabatan": "nama_jabatan 1",
-            "nama_perusahaan": "nama_perusahaan 1",
+            "nama_jabatan": "Manager",
+            "nama_perusahaan": "PT Bank Mandiri (Persero) Tbk",
             "start_date": 1697461952,
             "end_date": 1697461952,
             "nama_kota": "jakarta",
@@ -14,8 +14,8 @@
         {
             "id": "2",
             "logo": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1114.jpg",
-            "nama_jabatan": "nama_jabatan 2",
-            "nama_perusahaan": "nama_perusahaan 2",
+            "nama_jabatan": "Asisten Manager",
+            "nama_perusahaan": "PT Reasuransi Indonesia Utama (Persero)",
             "start_date": 1697461952,
             "end_date": 1697461892,
             "nama_kota": "jakarta",
@@ -25,8 +25,8 @@
         {
             "id": "3",
             "logo": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/111.jpg",
-            "nama_jabatan": "nama_jabatan 3",
-            "nama_perusahaan": "nama_perusahaan 3",
+            "nama_jabatan": "Masinis",
+            "nama_perusahaan": "PT Kereta Api Indonesia (Persero)",
             "start_date": 1697461952,
             "end_date": 1697461892,
             "nama_kota": "Surabaya",
@@ -36,8 +36,8 @@
         {
             "id": "4",
             "logo": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/11.jpg",
-            "nama_jabatan": "nama_jabatan 3",
-            "nama_perusahaan": "nama_perusahaan 3",
+            "nama_jabatan": "Accounting Manager",
+            "nama_perusahaan": "PT Pos Indonesia (Persero)",
             "start_date": 1697461952,
             "end_date": 1697461892,
             "nama_kota": "Bandung",
@@ -48,13 +48,37 @@
     "perusahaan": [
         {
             "id":"1",
-            "nama_perusahaan": "Pertamina"
+            "nama_perusahaan": "PT Bank Mandiri (Persero) Tbk"
+        },
+        {
+            "id":"2",
+            "nama_perusahaan": "PT Reasuransi Indonesia Utama (Persero)"
+        },
+        {
+            "id":"3",
+            "nama_perusahaan": "PT Kereta Api Indonesia (Persero)"
+        },
+        {
+            "id":"4",
+            "nama_perusahaan": "PT Pos Indonesia (Persero)"
         }
     ],
     "jabatan": [
         {
             "id": "1",
             "nama_jabatan": "Direktur Utama"
+        },
+        {
+            "id": "2",
+            "nama_jabatan": "Manager"
+        },
+        {
+            "id": "3",
+            "nama_jabatan": "Asisten Manager"
+        },
+        {
+            "id": "4",
+            "nama_jabatan": "Accounting Manager"
         }
     ]
 }
