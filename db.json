@@ -21,6 +21,28 @@
             "nama_kota": "jakarta",
             "deskripsi": "Lorem Ipsum dolor sit amet",
             "tanggung_jawab": "Lorem Ipsum dolor sit amet"
+        },
+        {
+            "id": "3",
+            "logo": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/111.jpg",
+            "nama_jabatan": "nama_jabatan 3",
+            "nama_perusahaan": "nama_perusahaan 3",
+            "start_date": 1697461952,
+            "end_date": 1697461892,
+            "nama_kota": "Surabaya",
+            "deskripsi": "Lorem Ipsum dolor sit amet",
+            "tanggung_jawab": "Lorem Ipsum dolor sit amet"
+        },
+        {
+            "id": "4",
+            "logo": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/11.jpg",
+            "nama_jabatan": "nama_jabatan 3",
+            "nama_perusahaan": "nama_perusahaan 3",
+            "start_date": 1697461952,
+            "end_date": 1697461892,
+            "nama_kota": "Bandung",
+            "deskripsi": "Lorem Ipsum dolor sit amet",
+            "tanggung_jawab": "Lorem Ipsum dolor sit amet"
         }
     ]
 }
