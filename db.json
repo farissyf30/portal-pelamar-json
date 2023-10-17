@@ -72,6 +72,10 @@
         {
             "id":"4",
             "nama_perusahaan": "PT Pos Indonesia (Persero)"
+        },
+        {
+            "id":"54",
+            "nama_perusahaan": "PT PAL Indonesia"
         }
     ],
     "jabatan": [
@@ -90,6 +94,10 @@
         {
             "id": "4",
             "nama_jabatan": "Accounting Manager"
+        }
+        {
+            "id": "5",
+            "nama_jabatan": "Peneliti"
         }
     ]
 }
