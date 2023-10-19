@@ -1,7 +1,7 @@
 {
     "joblist": [
         {
-            "id": "1",
+            "id": 1,
             "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Bank_Mandiri_logo_2016.svg",
             "nama_jabatan": "Manager",
             "nama_perusahaan": "PT Bank Mandiri (Persero) Tbk",
@@ -12,7 +12,7 @@
             "tanggung_jawab": "Lorem Ipsum dolor sit amet"
         },
         {
-            "id": "2",
+            "id": 2,
             "logo": "https://aaji.or.id/file/uploads/company/IndoRe-01-01REVISI.jpg",
             "nama_jabatan": "Asisten Manager",
             "nama_perusahaan": "PT Reasuransi Indonesia Utama (Persero)",
@@ -23,7 +23,7 @@
             "tanggung_jawab": "Lorem Ipsum dolor sit amet"
         },
         {
-            "id": "3",
+            "id": 3,
             "logo": "https://upload.wikimedia.org/wikipedia/id/3/3d/Logo_PT_KAI_%28Persero%29_%28New_version_2016%29.svg",
             "nama_jabatan": "Masinis",
             "nama_perusahaan": "PT Kereta Api Indonesia (Persero)",
@@ -34,7 +34,7 @@
             "tanggung_jawab": "Lorem Ipsum dolor sit amet"
         },
         {
-            "id": "4",
+            "id": 4,
             "logo": "https://csr.semarangkota.go.id/foto/1653847162501-Pos.jpg",
             "nama_jabatan": "Accounting Manager",
             "nama_perusahaan": "PT Pos Indonesia (Persero)",
@@ -45,7 +45,7 @@
             "tanggung_jawab": "Lorem Ipsum dolor sit amet"
         },
         {
-            "id": "5",
+            "id": 5,
             "logo": "https://www.len.co.id/wp-content/uploads/2015/01/LOGO-PT-PAL-INDONESIA-150X50.png",
             "nama_jabatan": "Peneliti",
             "nama_perusahaan": "PT PAL Indonesia",
@@ -58,41 +58,41 @@
     ],
     "perusahaan": [
         {
-            "id": "1",
+            "id": 1,
             "nama_perusahaan": "PT Bank Mandiri (Persero) Tbk"
         },
         {
-            "id": "2",
+            "id": 2,
             "nama_perusahaan": "PT Reasuransi Indonesia Utama (Persero)"
         },
         {
-            "id": "3",
+            "id": 3,
             "nama_perusahaan": "PT Kereta Api Indonesia (Persero)"
         },
         {
-            "id": "4",
+            "id": 4,
             "nama_perusahaan": "PT Pos Indonesia (Persero)"
         },
         {
-            "id": "54",
+            "id": 5,
             "nama_perusahaan": "PT PAL Indonesia"
         }
     ],
     "jabatan": [
         {
-            "id": "1",
+            "id": 1,
             "nama_jabatan": "Direktur Utama"
         },
         {
-            "id": "2",
+            "id": 2,
             "nama_jabatan": "Manager"
         },
         {
-            "id": "3",
+            "id": 3,
             "nama_jabatan": "Asisten Manager"
         },
         {
-            "id": "4",
+            "id": 4,
             "nama_jabatan": "Accounting Manager"
         },
         {
@@ -122,16 +122,19 @@
         {
             "data": [
                 {
-                    "id": "1",
+                    "id": 1,
                     "name": "Islam"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
                     "name": "Kristen"
+                },
+                {
+                    "id": 3,
+                    "name": "Budha"
                 }
             ],
             "status_code": 201
         }
-        
     ]
 }
