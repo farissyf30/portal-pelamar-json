@@ -146,5 +146,24 @@
             }
         ],
         "status_code": 201
+    },
+    "personal": {
+        "data": {
+            "id": 1,
+            "nama": "Jhon",
+            "gelar": "S.Kom",
+            "gender": "L",
+            "is_wna": 0,
+            "nik": "123123",
+            "tempat_lahir": "Surabaya",
+            "nama_provinsi": "Jawa Timur",
+            "tgl_lahir": 1697461952,
+            "agama_desc": "Islam",
+            "alamat": "Jl raya raya 43",
+            "email": "email@gmail.com",
+            "phone": "07819289292",
+            "status_kawin": "kawin"
+        },
+        "status_code": 201
     }
 }
