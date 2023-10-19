@@ -58,23 +58,23 @@
     ],
     "perusahaan": [
         {
-            "id":"1",
+            "id": "1",
             "nama_perusahaan": "PT Bank Mandiri (Persero) Tbk"
         },
         {
-            "id":"2",
+            "id": "2",
             "nama_perusahaan": "PT Reasuransi Indonesia Utama (Persero)"
         },
         {
-            "id":"3",
+            "id": "3",
             "nama_perusahaan": "PT Kereta Api Indonesia (Persero)"
         },
         {
-            "id":"4",
+            "id": "4",
             "nama_perusahaan": "PT Pos Indonesia (Persero)"
         },
         {
-            "id":"54",
+            "id": "54",
             "nama_perusahaan": "PT PAL Indonesia"
         }
     ],
@@ -98,6 +98,20 @@
         {
             "id": "5",
             "nama_jabatan": "Peneliti"
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "username": "user1",
+            "password": "password1",
+            "token": "token123"
+        },
+        {
+            "id": 2,
+            "username": "user2",
+            "password": "password2",
+            "token": "token456"
         }
     ]
 }
