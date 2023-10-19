@@ -116,6 +116,14 @@
             "email": "email2@gmail.com",
             "password": "password1",
             "token": "token123"
+        },
+        {
+            "id": 3,
+            "name": "user3",
+            "surname": "user3",
+            "email": "email3@gmail.com",
+            "password": "password3",
+            "token": "token123"
         }
     ],
     "agama": {
