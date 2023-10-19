@@ -103,15 +103,19 @@
     "users": [
         {
             "id": 1,
-            "username": "user1",
+            "name": "user1",
+            "surname": "user1",
+            "email": "email@gmail.com",
             "password": "password1",
-            "token": "token123"
+            "api_token": "token123"
         },
         {
             "id": 2,
-            "username": "user2",
-            "password": "password2",
-            "token": "token456"
+            "name": "user2",
+            "surname": "user2",
+            "email": "email2@gmail.com",
+            "password": "password1",
+            "api_token": "token123"
         }
     ]
 }
