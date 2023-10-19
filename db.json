@@ -107,7 +107,7 @@
             "surname": "user1",
             "email": "email@gmail.com",
             "password": "password1",
-            "api_token": "token123"
+            "token": "token123"
         },
         {
             "id": 2,
@@ -115,7 +115,7 @@
             "surname": "user2",
             "email": "email2@gmail.com",
             "password": "password1",
-            "api_token": "token123"
+            "token": "token123"
         }
     ]
 }
