@@ -118,23 +118,25 @@
             "token": "token123"
         }
     ],
-    "agama": [
-        {
-            "data": [
-                {
-                    "id": 1,
-                    "name": "Islam"
-                },
-                {
-                    "id": 2,
-                    "name": "Kristen"
-                },
-                {
-                    "id": 3,
-                    "name": "Budha"
-                }
-            ],
-            "status_code": 201
-        }
-    ]
+    "agama": {
+        "data": [
+            {
+                "id": 1,
+                "name": "Islam"
+            },
+            {
+                "id": 2,
+                "name": "Kristen"
+            },
+            {
+                "id": 3,
+                "name": "Budha"
+            },
+            {
+                "id": 4,
+                "name": "Hindu"
+            }
+        ],
+        "status_code": 201
+    }
 }
