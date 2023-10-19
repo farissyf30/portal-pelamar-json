@@ -120,12 +120,18 @@
     ],
     "agama": [
         {
-            "id": "1",
-            "name": "Islam"
-        },
-        {
-            "id": "2",
-            "name": "Kristen"
+            "data": [
+                {
+                    "id": "1",
+                    "name": "Islam"
+                },
+                {
+                    "id": "2",
+                    "name": "Kristen"
+                }
+            ],
+            "status_code": 201
         }
+        
     ]
 }
